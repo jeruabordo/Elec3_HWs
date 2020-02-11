@@ -1,0 +1,14 @@
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\bin\Debug\File_Handling.exe.config
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\bin\Debug\File_Handling.exe
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\bin\Debug\File_Handling.pdb
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\bin\Debug\File_Handling.xml
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\obj\Debug\File_Handling.vbprojAssemblyReference.cache
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\obj\Debug\File_Handling.Form1.resources
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\obj\Debug\File_Handling.Resources.resources
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\obj\Debug\File_Handling.vbproj.GenerateResource.cache
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\obj\Debug\File_Handling.exe
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\obj\Debug\File_Handling.xml
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\obj\Debug\File_Handling.pdb
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Edlyn Guitang\Desktop\VB_Repos\Elec3_HWs\File_Handling\File_Handling\obj\Debug\File_Handling.vbproj.CopyComplete
